@@ -1,5 +1,4 @@
-# Project Title
-Color Of World
+# Color Of World
 
 ## Authors
 Jae Hyun Yoo, fkkcloud
@@ -22,7 +21,8 @@ function test() {
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](https://developer.leapmotion.com/ "Leap Motion")
+[Leap MOtion](https://developer.leapmotion.com/ "Leap Motion")
+[Google Maps](https://developers.google.com/maps/ "Google Maps API")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
