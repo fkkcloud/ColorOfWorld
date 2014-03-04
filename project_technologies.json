@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "Openframeworks", "OpenGL", "GDI+", "Leap Motion"
+            "Openframeworks", "OpenGL", "GDI+", "Leap Motion", "google maps" , "google street view"
         ],
         "platforms": [
             "C++"
