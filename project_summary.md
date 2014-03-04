@@ -1,7 +1,7 @@
 # Color Of World
 
 ## Authors
-Jae Hyun Yoo, fkkcloud
+Jae Hyun Yoo, github.com/fkkcloud
 
 ## Description
 I was always liked to explore something. Learning and research something would be most important thing to make my everyday creative. Now with the powerful network services around us, it is getting easier and easier to get resource of diffent places that I can't go instantly. What if I can get a color pallette of a place where oppsite side of earth from where I am standing? And explore the color pallettes of different places of earth. Based on the color pallettes of five finger that is chosen by one's hand will be matched with one of the legendary masterpieces from old ages.
