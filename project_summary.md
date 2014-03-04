@@ -8,7 +8,8 @@ Main Auther , Engineer
 FX Artist @ Walt Disney Animation Studio
 
 ## Description
-I was always passionated in exploring something. Learning and research something new and unknown is most important thing to make my everyday living creative. Now with the powerful network service around us, it is getting more easier and easier to get resources of diffent interests that I can't acheive instantly. What if I can get a color pallette of a place where opposite side of earth from where I am standing? Exploring the color palettes of different places of earth. Based on the color palettes of five fingers, with leap motion and google maps api will help us to get the places's logitude, latitude and even street view images. Those datas(Color palettes) will be used to find best-matched one of the legendary masterpieces from old ages.
+I was always passionated in exploring something. Learning and research something new unknown is most important thing to make my everyday living creative. Now with the powerful network service among us, it is getting easier and easier to get resources of diffent interests that I can't obtain instantly. What if I can get a color pallette of a place where opposite side of earth from where I am standing? Exploring the color palettes of different places of earth. Based on the color palettes from what five fingers are pointing to map using leap motion will give you exact view / location information of the place. Google maps api will help us to get the places's street view images and it will be evaluated to export some color palettes. Those palettes will be used to find one of the legendary masterpieces from old ages that has best-matched color palettes that we collected from the world-wide map!
+
 
 ## To web administrator
 I restored post files through git but it still have 3 "My First Post" and 2 "My Second Post".
