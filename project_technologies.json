@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Openframeworks", "OpenGL", "GDI+", "Leap Motion"
         ],
         "platforms": [
-            "insert platforms"
+            "C++"
         ],
         "toolkits": [
-            "insert toolkits"
+            "SideFX Houdini"
         ]
     },
     "themes": [
