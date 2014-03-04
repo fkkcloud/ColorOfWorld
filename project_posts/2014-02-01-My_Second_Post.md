@@ -8,7 +8,7 @@ ScreenShot Illustraction (temporarily design)
 
 5 Different 5 Palettes -->
 
-1 Matched drawing matching the 5 palettes
+1 Drawing matching the 5 palettes
 
 ![Example Image](../project_images/prog2.jpg?raw=true "Example Image")
 
