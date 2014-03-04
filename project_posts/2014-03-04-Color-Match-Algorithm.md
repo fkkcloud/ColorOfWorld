@@ -4,7 +4,7 @@ From the collected 5 color palettes from 5 different street views, we can find b
 
 ![Example Image](../project_images/prog4.jpg?raw=true "Example Image")
 
-<code>
+```
 
 using namespace Gdiplus;
 using namespace std;
@@ -72,4 +72,4 @@ void main()
 	}
     }
 
-</code>
+```
