@@ -6,9 +6,12 @@ From the collected 5 color palettes from 5 different street views, we can find b
 
 <code>
 using namespace Gdiplus;
+
 using namespace std;
 
+
 typedef std::map<std::string, float> TStrClrMap;
+
 typedef std::pair<std::string, float> TStrClrPair
 
 void main()
