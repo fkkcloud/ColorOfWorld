@@ -21,6 +21,8 @@ And it will be used to compare with the 5 palettes color from 5 different street
 ```
 #include <iostream>
 #include <stdlib.h>
+#include <map>
+#include <string>
 #include "gdiplus.h"
 #include "stdio.h"
 
