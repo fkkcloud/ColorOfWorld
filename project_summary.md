@@ -1,6 +1,6 @@
 # Color Of World
 
-## Authors
+## Author
 Jae Hyun Yoo, github.com/fkkcloud
 
 Main Auther , Engineer
