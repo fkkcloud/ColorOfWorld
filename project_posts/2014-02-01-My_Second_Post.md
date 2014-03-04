@@ -6,7 +6,7 @@ ScreenShot Illustraction (temporarily design)
 
 5 Different Street View Images -->
 
-5 Different 5 Palettes -->
+5 Different Palettes -->
 
 1 Drawing matching the 5 palettes
 
