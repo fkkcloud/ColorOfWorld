@@ -1,6 +1,6 @@
 Continued from Second Post
 
-From the collected 5 color palettes from 5 different street views, we can find best-matched classical drawing from the library that has best-matched color palette (top 5)
+From the collected 5 color palettes from 5 different street views, we can find best-matched classical drawing to our color palettes.
 
 ![Example Image](../project_images/prog4.jpg?raw=true "Example Image")
 
@@ -16,7 +16,7 @@ yellow : 102
 cyan : 32
 magenta : 1484
 
-And it will be used to compare with the 5 palettes color from 5 different street views.
+And the information which is from an image will be used to compare with the 5 palettes color from 5 different street views which is collected from map.
 
 ```
 #include <iostream>
