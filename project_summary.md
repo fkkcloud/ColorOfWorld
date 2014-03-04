@@ -21,7 +21,7 @@ function test() {
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Leap MOtion](https://developer.leapmotion.com/ "Leap Motion")
+[Leap Motion](https://developer.leapmotion.com/ "Leap Motion")
 [Google Maps](https://developers.google.com/maps/ "Google Maps API")
 
 ## Images & Videos
