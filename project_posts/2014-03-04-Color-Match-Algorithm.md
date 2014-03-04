@@ -4,6 +4,20 @@ From the collected 5 color palettes from 5 different street views, we can find b
 
 ![Example Image](../project_images/prog4.jpg?raw=true "Example Image")
 
+
+This code will organize all the pixels of an image into 6 different types : red, green, blue, yellow, cyan, magenta
+And score each subjects like below:
+
+total pixel count : 2500
+red : 435
+green : 213
+blue : 234
+yellow : 102
+cyan : 32
+magenta : 1484
+
+And it will be used to compare with the 5 palettes color from 5 different street views.
+
 ```
 #include <iostream>
 #include <stdlib.h>
