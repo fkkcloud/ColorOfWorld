@@ -2,10 +2,10 @@ Implemented interactive map view / street view based on mouse's position adding 
 
 With the loaded street view, it will put out some color palettes. (Color Filter Algorithm is not applied yet)
 
-![Example Image](../project_images/scan01.jpg?raw=true "Example Image")
-![Example Image](../project_images/scan02.jpg?raw=true "Example Image")
-![Example Image](../project_images/scan03.jpg?raw=true "Example Image")
-![Example Image](../project_images/scan04.jpg?raw=true "Example Image")
+![Example Image](../project_images/scan01.png?raw=true "Example Image")
+![Example Image](../project_images/scan02.png?raw=true "Example Image")
+![Example Image](../project_images/scan03.png?raw=true "Example Image")
+![Example Image](../project_images/scan04.png?raw=true "Example Image")
 
 
 ```
