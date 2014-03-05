@@ -5,7 +5,6 @@ Jae Hyun Yoo, github.com/fkkcloud
 
 Main Auther , Engineer
 
-FX Artist @ Walt Disney Animation Studio
 
 ## Description
 Learning and research something new unknown is most important thing to make everyday living creative. 
