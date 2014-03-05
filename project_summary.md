@@ -8,7 +8,8 @@ Main Auther , Engineer
 FX Artist @ Walt Disney Animation Studio
 
 ## Description
-I was always passionated in exploring something. Learning and research something new unknown is most important thing to make my everyday living creative. Now with the powerful network service that connects everything to everything among us, it is getting easier and easier to get resources of diffent interests that was almost impossible to obtain instantly. 
+Learning and research something new unknown is most important thing to make everyday living creative. 
+Now with the powerful network service that connects everything to everything among us, it is getting easier and easier to get resources of diffent interests that was almost impossible to obtain instantly. 
 
 What if we can get a color pallette of a place where opposite side of earth from where I am standing? 
 
