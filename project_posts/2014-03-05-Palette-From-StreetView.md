@@ -1,4 +1,4 @@
-Implemented interactive map view / street view based on mouse's position which will be added to latitude and longitude.
+Implemented interactive map view / street view based on mouse's position which will be added to latitude and longitude. Mouse interactivity will be replaced with Leap Motion interactivity.
 
 With the loaded street view, it will create a color palette. (Color Filter Algorithm is not applied yet)
 
