@@ -2,6 +2,7 @@ So, it was quite simple to bringing in interactive mapview from google map API i
 
 
 '''
+
 void testApp::update(){
     string str_latitude = ofToString( latitude - mouseY * 0.00001 );
     string str_longitude = ofToString( longitude - mouseX * 0.00001 );
@@ -12,4 +13,5 @@ void testApp::update(){
     + "&zoom=14&size=400x400&sensor=false";
     gMapView.loadImage(imgPath);
 }
+
 '''
