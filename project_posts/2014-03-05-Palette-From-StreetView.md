@@ -7,6 +7,8 @@ With the loaded street view, it will put out some color palettes. (Color Filter 
 ![Example Image](../project_images/scan03.png?raw=true "Example Image")
 ![Example Image](../project_images/scan04.png?raw=true "Example Image")
 
+#Download Palette Exporter Tester
+http://fkkcloud.com/apps/ColorPaletteExporter_tester.zip
 
 ```
 
