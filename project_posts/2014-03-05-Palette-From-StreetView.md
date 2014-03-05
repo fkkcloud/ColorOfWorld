@@ -5,8 +5,11 @@ With the loaded street view, it will create a color palette. (Color Filter Algor
 Download Palette Exporter Tester    
 http://fkkcloud.com/apps/ColorPaletteExporter_tester.zip
 ![Example Image1](../project_images/scan01.jpg?raw=true "Example Image1")
+
 ![Example Image2](../project_images/scan02.jpg?raw=true "Example Image2")
+
 ![Example Image3](../project_images/scan03.jpg?raw=true "Example Image3")
+
 ![Example Image4](../project_images/scan04.jpg?raw=true "Example Image4")
 
 
