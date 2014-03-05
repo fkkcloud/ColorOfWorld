@@ -2,13 +2,13 @@ Implemented interactive map view / street view based on mouse's position adding 
 
 With the loaded street view, it will put out some color palettes. (Color Filter Algorithm is not applied yet)
 
+##Download Palette Exporter Tester
+http://fkkcloud.com/apps/ColorPaletteExporter_tester.zip
 ![Example Image](../project_images/scan01.png?raw=true "Example Image")
 ![Example Image](../project_images/scan02.png?raw=true "Example Image")
 ![Example Image](../project_images/scan03.png?raw=true "Example Image")
 ![Example Image](../project_images/scan04.png?raw=true "Example Image")
 
-#Download Palette Exporter Tester
-http://fkkcloud.com/apps/ColorPaletteExporter_tester.zip
 
 ```
 
