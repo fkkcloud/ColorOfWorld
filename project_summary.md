@@ -14,7 +14,3 @@ What if we can get a color pallette of a place where opposite side of earth from
 
 Exploring the color palettes of different places of earth. Based on information from what five fingers are pointing to map using Leap Motion, it will give us exact map/streed view and location information (longitude, latitude) of the place. Google maps api will help us to get the places's street view images and the image will be evaluated to export a color palette. Those palettes will be used to find one of the legendary masterpieces from old ages that has best-matched color palettes to our collected color palettes from the world-wide map!
 
-
-## To web administrator
-I restored post files through git but it still have 3 "My First Post" and 2 "My Second Post".
-Could you please make them those posts to be single?
