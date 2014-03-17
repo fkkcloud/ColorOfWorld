@@ -8,10 +8,12 @@ Each fingers street view and defined color palette will also displayed very left
 
 All the layouy is just temp and it is just tech demo
 
-Download Palette Exporter Tester App 2 (run on OSX only)   
+
+<b>Download Palette Exporter Tester App 2 (run on OSX only) </b>  
 http://fkkcloud.com/apps/ColorPaletteExporter_tester2.zip
+
 
 http://www.youtube.com/watch?v=Yclz-w1nxiE
 
-![Example Image1](../project_images/demoScreenShot.jpg?raw=true "Example Image1")
+![Example Image1](../project_images/demoScreenShot01.jpg?raw=true "Example Image1")
 
