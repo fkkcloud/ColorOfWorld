@@ -15,5 +15,5 @@ http://fkkcloud.com/apps/ColorPaletteExporter_tester2.zip
 
 http://www.youtube.com/watch?v=Yclz-w1nxiE
 
-![Example Image1](../project_images/demoScreenShot01.jpg?raw=true "Example Image1")
+![Example Image1](../project_images/demoScreenShot01.png?raw=true "Example Image1")
 
