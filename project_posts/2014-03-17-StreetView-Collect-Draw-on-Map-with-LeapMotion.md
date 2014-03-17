@@ -1,16 +1,16 @@
-Implemented interactive map view / street view based on mouse's position which will be added to latitude and longitude. Mouse interactivity will be replaced with Leap Motion interactivity.
+Implemented interactive map view with Leap Motion
+"Right Circle Finger" motion enables color palette collect from the map's street view
+Collected Color will be stored bottom left
+Each fingers street view and defined color palette will also displayed very left side
 
-With the loaded street view, it will create a color palette. (Color Filter Algorithm is not applied yet)
+All the layouy is just temp and it is just tech demo
 
-Download Palette Exporter Tester    
-http://fkkcloud.com/apps/ColorPaletteExporter_tester.zip
-![Example Image1](../project_images/scan01.jpg?raw=true "Example Image1")
+Download Palette Exporter Tester App 2 (run on OSX only)   
+http://fkkcloud.com/apps/ColorPaletteExporter_tester2.zip
 
-![Example Image2](../project_images/scan02.jpg?raw=true "Example Image2")
+http://www.youtube.com/watch?v=Yclz-w1nxiE
 
-![Example Image3](../project_images/scan03.jpg?raw=true "Example Image3")
-
-![Example Image4](../project_images/scan04.jpg?raw=true "Example Image4")
+![Example Image1](../project_images/demoScreenShot.jpg?raw=true "Example Image1")
 
 
 ```
