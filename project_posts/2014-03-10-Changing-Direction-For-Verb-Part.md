@@ -1,7 +1,7 @@
 Changing Directions for "Verb" part.
 
-I like how I grab color palettes from street view which is scanned by motion from Leap Motion.
-However, the result from the motion is still too weak and not artistically satisfied.
+I like how I <b>grab color palettes from street view which is scanned by motion from Leap Motion</b>.
+However, the <u>result from the "Noun"</u> is still too weak and not artistically satisfied.
 
 Idea Development for "Verb" part
 ![Example Image1](../project_images/refsketch.jpg?raw=true "Example Image1")
